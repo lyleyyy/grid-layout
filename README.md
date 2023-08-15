@@ -20,99 +20,19 @@
 -->
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/Space Titanic.png" alt="Logo" width="512" height="512">
-  </a>
-
-<h3 align="center">Project Space Titanic</h3>
-
-  <p align="center">
-    A project trying to solve the Space Titanic Competition on Kaggle
-  </p>
-</div>
-
-
-
-
-
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
-### Old Project, won't be updates
-
-
-The project is coded with pure python, and the provided files are supposed to be executed via Jupyter Notebook.
-The Space Titanic competition is a bi-class classification task. Therefore, We are using a 9-12 layer MLP to complete this task.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* Pytorch
-* Numpy
-* Pandas
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+## About The Practice
+The practice is coded with html and scss for personal coding practice purpose.
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-If you are already a python user and have Jupyter Notebook installed, you could open this project and skip this part.
-Both SpaceTitanicV0 and V1 should work fine, but there is a minor difference in data preprocessing (and it has a minor-to-none influence on the model).
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* Install Jupyter Notebook via [Anaconda](https://www.anaconda.com/products/distribution)
-* Access Anaconda Prompt (and activate environment)
-    ```sh
-      activate [Environment Name]
-* Use pip for package installation
-    ```sh
-      pip install pytorch
-      pip install pandas
-      pip install numpy
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Open either SpaceTitanicV0 or V1, and execute all. You may change the structure of the Neural Net, activation function, optimizer, batch size, and learning rate if you want.
-But we recommend using Adam (or any fast optimizer) because otherwise it may take much time on a personal computer.
-
-To load saved models, you can edit torch.save(model, 'model/[model name]') and run the file with training skipped.
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] SpaceTitanicV0 - the basic version
-- [ ] SpaceTitanicV1 - last name feature is maintained in the training data
-- [ ] Upcoming V2 - simplify the data preprocessing steps
-- [ ] Variant Symmetry Cancellation - design for studying the symmetric in model weights (not included yet)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
+Simply open it with VS Code Live Server.
 
 
 <!-- CONTACT -->
 ## Contact
 
-Shaowen Wen - [shaowen0219@outlook.com](https://shaowen0219@outlook.com)
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Weizhi Yang (Lyle) - [lyletwro@gmail.com](https://lyletwro@gmail.com)
 
 
