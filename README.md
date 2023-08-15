@@ -21,8 +21,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Practice
-The practice is coded with html and scss for personal coding practice purpose.
+## About
+This is coded with html and scss for personal coding practice purpose.
 
 
 <!-- GETTING STARTED -->
